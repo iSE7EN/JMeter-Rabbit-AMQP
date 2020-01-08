@@ -44,7 +44,7 @@
           <boolProp name="AMQPSampler.Redeclare">false</boolProp>
           <stringProp name="AMQPSampler.Timeout">1000</stringProp>
           <stringProp name="AMQPSampler.Iterations">1</stringProp>
-          <stringProp name="AMQPSampler.Host">127.0.0.1</stringProp>
+          <stringProp name="AMQPSampler.Host">localhost</stringProp>
           <stringProp name="AMQPSampler.Port">5672</stringProp>
           <stringProp name="AMQPSampler.Username">guest</stringProp>
           <stringProp name="AMQPSampler.Password">guest</stringProp>
